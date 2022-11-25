@@ -1,0 +1,25 @@
+#inicio{
+    text-align: center;
+}
+#jugando{
+    text-align: center;
+}
+#M{
+    text-align: center;
+}
+#numeros{
+    text-align: center;
+}
+#seleccion{
+    text-align: center;
+}
+#salir{
+    text-align: center;
+}
+
+.fade-enter-active, .fade-leave-active {
+    transition: opacity .5s
+  }
+  .fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+    opacity: 0
+  }
